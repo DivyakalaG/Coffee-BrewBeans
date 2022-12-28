@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Lobster&family=Pinyon+Script&family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Lobster&family=Pinyon+Script&family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Lobster&family=Montserrat:wght@100&family=Pinyon+Script&family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Lobster&family=Montserrat:wght@100&family=Permanent+Marker&family=Pinyon+Script&family=Saira+Stencil+One&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(246, 233, 197);
+}
+.head{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(209, 154, 95);
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+h1{
+    font-size: 80px;
+    font-family: 'Saira Stencil One', cursive;
+    color: rgb(73, 28, 8);
+    margin-left: 60px;
+    margin-top: -107px;
+    
+    
+}
+h6{
+    font-family: 'Pinyon Script', cursive;
+    font-size: 20px;  
+   margin-top: -26px;
+   
+}
+.logo{
+    margin-left: -715px;
+    margin-top: 1px;
+   
+    width: 100px;
+    height: 90px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+   
+}
+.hthin{
+    font-size: 35px;
+}
+.hbold{
+    font-size:40px ;
+}
+.about{
+    width: 450px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 20px;
+    text-align: justify;
+    margin-left: 500px;
+}
+.icon{
+    width: 90px;
+    height:85px;
+    margin-left: 1396px;
+    margin-top: -138px;
+    position: sticky;
+    top: 250px;
+}
+#stickyicon{
+
+    width: 90px;
+    height: 80px;
+
+}
+h3{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(73, 28, 8);
+}
+.intro{
+    width: 450px;
+    height: 200px;
+    padding: 30px;
+    text-align: justify;
+    margin-left: 155px;
+}
+.cherry{
+
+width: 500px;
+height: 300px;
+margin-left: 647px;
+margin-top: -300px;
+}
+
+.row{
+    margin-top: 100px;
+    width: 100%;
+    height: 350px;
+    background-color: rgba(255, 153, 127, 0.204);
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.col:hover{
+    background-color: rgb(183, 108, 67);
+    border: 2px ridge rgba(143, 89, 55, 0.363);
+    width: 320px;
+    height: 350px;
+    margin: 10px;
+    border-radius: 25px;
+}
+.types{
+    width:270px ;
+    height:270px ;
+    margin: 25px;
+    border-radius: 70px;
+}
+.title{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    margin-top: -20px;
+    color: rgb(80, 27, 11);
+   
+}
+.break{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(101, 49, 15);
+}
+.topbrands{
+    width: 900px;
+    height: 930px;
+    background-color: rgb(243, 190, 110);
+    border-radius: 70px;
+    margin-left: 300px;
+    border: 15px rgb(249, 230, 168) solid;
+
+}
+.Brands{
+    width:250px ;
+    height: 250px;
+    margin-top: 30px;
+    float: right;
+    
+
+}
+.B1, .B3, .B5{
+
+    margin-right: 150px;
+    margin-left: 3px;
+}
+
+.brandname{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;
+    color: rgb(63, 17, 4);
+    text-shadow: 2px 3px 3px;
+    
+}
+.cofbrand{
+    margin-top: 30px;
+    text-align: justify;
+}
+.gallery{
+    margin-top: 20px;
+    width: 100%;
+    height: 750px;
+    background-image: url(./Images/cofbg3.jpg) ;
+    background-attachment: fixed; 
+}
+.row2{
+    
+    width: 1400px;
+    height: 750px;
+    background-color: rgba(255, 153, 127, 0.204);
+    margin-left: 60px;
+   
+    
+}
+.col2{
+
+    border: 2px ridge rgba(50, 21, 3, 0.936);
+    background-color: rgba(156, 94, 60, 0.656);
+    width: 320px;
+    height: 350px;
+    margin: 10px;
+    border-radius: 25px;
+    float: right;
+}
+.gall{
+    margin: 10px;
+    border-radius: 20px;
+}
+.querry{
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    color: rgb(75, 25, 5);
+}
+.que{
+    width: 400px;
+    height: 230px;
+    border: 2px solid rgb(85, 40, 6);
+    margin-top: 30px;
+    margin-left: 520px;
+    padding: 20px;
+    background-color: rgb(204, 148, 113);
+}
+.btn{
+    width: 100px;
+    background-color: rgb(166, 104, 50);
+    border-radius: 10px;
+    color:  rgb(65, 31, 1);
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#l1{
+   margin-top: 50px;
+   margin-left: -238px;
+}
+#t1{
+    margin-top: -16px;
+    margin-left: 88px;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color:rgb(209, 154, 95); 
+    background-attachment: fixed;
+    margin-top: 30px;
+}
+.fcol{
+    width: 200px;
+    height: 190px;
+    float: right;
+    margin-left: 50px;
+
+}
+.f3{
+    float: left;
+    margin-left: 85px;
+}
+.f2{
+    margin-right: 227px;
+    width: 400px;
+}
+.f1{
+    margin-right: 30px;
+    width: 300px;
+}
+.fq{
+    font-size: 42px;
+}
+#foot{
+    color: rgb(74, 21, 3);
+    margin-left: 60px;
+    margin-top: 20px;
+    
+}
+#footer{
+    text-align: center;
+    font-size: smaller;
+}
+#address{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    margin-top: 30px;
+    margin-right: 210px;
+}
+#add{
+    margin-top: 20px;
+    text-align: justify;
+
+}
